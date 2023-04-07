@@ -19,8 +19,6 @@ I am a Full Stack Development student <img src="https://media.giphy.com/media/WU
 
   - :us: Currently living in the United States.
 
-  - :zap: In my free time, I study programming and read tech articles.
-
   - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-hboppe-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hannaboppe/)
   
 ---
