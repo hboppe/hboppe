@@ -13,7 +13,7 @@
   
 ### :woman_technologist: About Me :
 
-I am a Full Stack Development student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Full Stack Development<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
   - :telescope: I’m a full time student seeking for a job opportunity.
 
