@@ -13,9 +13,9 @@
   
 ### :woman_technologist: About Me :
 
-I am a Full Stack Development<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-  - :telescope: I’m a full time student seeking for a job opportunity.
+  - :telescope: Seeking for a job opportunity.
 
   - :us: Currently living in the United States.
 
