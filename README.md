@@ -17,8 +17,6 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
   - :telescope: Seeking for a job opportunity.
 
-  - :us: Currently living in the United States.
-
   - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-hboppe-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hannaboppe/)
   
 ---
